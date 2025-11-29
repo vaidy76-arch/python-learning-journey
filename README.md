@@ -7,6 +7,7 @@ My 6-month journey to becoming a full stack developer
 
 **Week 1:**
 - ✅ Day 1: Environment setup complete
-  - Installed Python, VS Code, Git
-  - Created first program
-  - Set up GitHub repository
+- ✅ Day 2: Variables and data types
+  - Learned strings, integers, floats, booleans
+  - String operations and formatting
+  - Built a simple calculator
