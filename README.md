@@ -12,3 +12,8 @@ My 6-month journey to becoming a full stack developer
   - String operations and formatting
   - Built enhanced calculator with user choice
   - Practiced string slicing and manipulation
+- ✅ Day 3: Control flow (if/elif/else)
+  - Comparison operators (==, !=, <, >, <=, >=)
+  - Logical operators (and, or, not)
+  - Built number guessing game
+  - Nested conditions and complex logic
