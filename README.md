@@ -17,3 +17,7 @@ My 6-month journey to becoming a full stack developer
   - Logical operators (and, or, not)
   - Built number guessing game
   - Nested conditions and complex logic
+  - **Bonus:** Enhanced guessing game with closeness feedback
+  - **Bonus:** Grade calculator with validation
+  - **Bonus:** Login system with admin access
+  - **Bonus:** Rock Paper Scissors game
