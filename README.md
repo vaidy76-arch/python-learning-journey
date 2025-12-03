@@ -21,3 +21,11 @@ My 6-month journey to becoming a full stack developer
   - **Bonus:** Grade calculator with validation
   - **Bonus:** Login system with admin access
   - **Bonus:** Rock Paper Scissors game
+- ✅ Day 4: Loops (for & while) ✅ BONUS CHALLENGES COMPLETE
+  - For loops with range
+  - While loops and infinite loops
+  - Break and continue statements
+  - Built guessing game with multiple attempts
+  - **Bonus:** Pattern printer (4 patterns)
+  - **Bonus:** Shopping cart calculator
+  - **Bonus:** Number statistics calculator
