@@ -29,3 +29,10 @@ My 6-month journey to becoming a full stack developer
   - **Bonus:** Pattern printer (4 patterns)
   - **Bonus:** Shopping cart calculator
   - **Bonus:** Number statistics calculator
+- ✅ Day 5: Lists & Tuples
+  - List methods (append, remove, pop, insert, sort, reverse)
+  - List slicing and indexing
+  - List comprehensions
+  - Tuples (immutable lists)
+  - Built student grade manager
+  - Lambda functions with max/min/sorted
