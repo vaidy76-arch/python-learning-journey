@@ -35,3 +35,13 @@ BaseException
            ├── IsADirectoryError
            ├── NotADirectoryError
            └── IOError (alias for OSError in Python 3+)
+
+
+
+
+dir(module) : List all attributes/functions
+help(module) : Full documentation
+help(module.function): Help on specific function
+module.__doc__ : Module docstring
+module.function.__doc__ : Function docstring
+inspect.getmembers(module) : Detailed inspection
