@@ -38,3 +38,18 @@ My 6-month journey to becoming a full stack developer
     - Statistics tracking
     - **File persistence (save/load JSON)**
     - Full error handling
+- ✅ Day 6: Functions & Modules ✅
+  - Defining functions with parameters
+  - Return values and multiple returns
+  - Default parameters
+  - Variable scope (local vs global)
+  - *args and **kwargs
+  - Docstrings for documentation
+  - Importing built-in modules (math, random, json, os)
+  - Creating custom modules
+  - `if __name__ == "__main__"` pattern
+  - **Built custom calculator module**
+  - Module exploration techniques
+  
+**Week 2 Preview:**
+- Day 7: Week 1 Review & Capstone Project
