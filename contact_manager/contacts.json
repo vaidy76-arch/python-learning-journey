@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "phone": "555-0000",
+    "email": "alice@email.com",
+    "address": "",
+    "groups": [],
+    "date": "2026-04-07"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "phone": "555-9999",
+    "email": "charlie@email.com",
+    "address": "",
+    "groups": [],
+    "date": "2026-04-07"
+  },
+  {
+    "id": 4,
+    "name": "Bob",
+    "phone": "555-5678",
+    "email": "bob@email.com",
+    "address": "",
+    "groups": [],
+    "date": "2026-04-07"
+  }
+]
