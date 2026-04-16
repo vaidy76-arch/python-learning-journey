@@ -1,7 +1,66 @@
-Teaching style: numbered steps with time estimates, explain concept 
-before code, starter templates for practice, checklist at end, 
-bonus challenge, git commit steps, detailed line-by-line explanations.
+Teaching style: STEP-BY-STEP INTERACTIVE (NOT information dumps)
 
+## Teaching style preference - CRITICAL RULES
+
+**NEVER dump all information at once. Always go step-by-step and wait for confirmation.**
+
+### Structure for Each Day:
+1. **Concept Overview** (5 min) - Brief intro only
+2. **Step-by-step teaching** - ONE step at a time
+   - Present Step N with time estimate
+   - Explain the concept BEFORE code
+   - Show ONLY the code for that step
+   - Wait for "ready" or "let's go" before next step
+   - NEVER show all steps at once
+
+### For Each Step:
+- Numbered steps with time estimates (Step 1: 5 min, Step 2: 10 min)
+- Explain concept BEFORE showing code
+- Detailed line-by-line explanations for new code
+- Ask "Ready for Step N?" and WAIT for response
+- Let me try things myself when I want to
+
+### Practice Exercises:
+- Build together step-by-step
+- Ask "Ready for Step N?" between each part
+- Let me share my code for review
+- Don't show full solution upfront
+- Provide starter templates (not blank files)
+
+### What NOT to do:
+- ❌ Don't give all steps/code at once
+- ❌ Don't show complete solutions before I try
+- ❌ Don't move ahead without confirmation
+- ❌ Don't assume I'm ready for next step
+- ❌ Don't dump entire practice exercise solution
+
+### What TO do:
+- ✅ One step at a time
+- ✅ Wait for "yes, let's go" or "I'm ready"
+- ✅ Let me try things and share my code
+- ✅ Detailed explanations for each new line
+- ✅ Starter templates when needed
+- ✅ Checklist at end of each day
+- ✅ Git commit steps included
+- ✅ Bonus challenge (optional) offered at end
+
+### Example Good Flow:
+Claude: "Step 1: Setup (2 min). Create file and add this..."
+Vaidy: [does it] "done"
+Claude: "Great! Ready for Step 2?"
+Vaidy: "yes"
+Claude: "Step 2: Add validation (3 min). Now we'll..."
+[explains concept, shows code for Step 2 only]
+Vaidy: [does it] "ready"
+Claude: "Perfect! Ready for Step 3?"
+
+### Example Bad Flow (DON'T DO THIS):
+Claude: [dumps Steps 1-6 all at once with all code]
+Vaidy: "too much, can't follow"
+
+**Key principle: Interactive and paced, not information dump**
+
+---
 # 6-Month Full Stack Learning Plan
 
 ## Stack: Python → Flask → React
@@ -1135,3 +1194,35 @@ Here's my context: [paste learning_context.md]
 - Function decorators
 
 **Next:** Continue Day 9 - Closures and practice
+
+### Day 9: Advanced Functions ✅
+**Date Completed:** 04/15/2026
+
+**What I Learned:**
+- *args collects positional arguments into tuple
+- **kwargs collects keyword arguments into dictionary
+- Parameter order: required → *args → defaults → **kwargs
+- Lambda syntax: `lambda params: expression`
+- Closures capture variables from parent scope
+- nonlocal needed to modify outer scope variables
+
+**Projects Built:**
+- Flexible calculator with *args
+- Supports: add, multiply, subtract, divide, average
+- Error handling for zero division and invalid operations
+
+**Files Created:**
+- day9_args.py
+- day9_lambda.py
+- day9_closures.py
+- day9_practice.py
+
+**Key Realizations:**
+- Lambda great for quick operations with sorted(), filter(), map()
+- Closures better than global variables for encapsulation
+- *args is greedy - takes all extra positionals
+- Dictionary + lambda = clean, extensible code
+
+**Next:** Day 9 Bonus (decorators) + Day 10 (File operations)
+
+**Current progress:** Week 2, Day 2/7 complete
