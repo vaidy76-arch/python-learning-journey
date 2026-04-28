@@ -1225,4 +1225,104 @@ Here's my context: [paste learning_context.md]
 
 **Next:** Day 9 Bonus (decorators) + Day 10 (File operations)
 
-**Current progress:** Week 2, Day 2/7 complete
+### Day 10: File Operations (IN PROGRESS)
+**Date Started:** 04/16/2026
+
+**What I Learned So Far:**
+- Text files: read(), readlines(), line-by-line reading
+- File modes: r, w, a, r+, w+
+- CSV operations with csv module
+- DictReader - reading CSV as dictionaries
+- DictWriter - writing CSV with dictionaries
+- Getting headers with .fieldnames
+
+**Files Created:**
+- day10_text_files.py
+- day10_csv_files.py
+
+**Still To Learn:**
+- JSON files (nested data)
+- Error handling for files
+- Practice exercise
+
+### Day 10: File Operations (Almost Complete!)
+**Date:** 04/20/2026
+
+**Completed:**
+- Text files (read/write, three reading methods)
+- CSV files (reader/writer, DictReader/DictWriter)
+- JSON files (nested data, complex structures)
+- Error handling (FileNotFound, JSONDecode, Permission)
+
+**Files Created:**
+- day10_text_files.py
+- day10_csv_files.py
+- day10_json_files.py
+- day10_error_handling.py
+
+**Still To Do:**
+- Part 5: CSV Data Analyzer practice exercise
+
+### Day 10: File Operations ✅
+**Date Completed:** 04/21/2026
+
+**What I Learned:**
+- Text file operations (read/write, three reading methods)
+- File modes: r, w, a, r+, w+ and when to use each
+- CSV operations with csv.reader and csv.writer
+- DictReader and DictWriter for cleaner CSV code
+- Complex nested JSON structures
+- Proper error handling for all file operations
+- Building production-ready data analysis tools
+
+**Projects Built:**
+- CSV Data Analyzer (analyzes sales, generates JSON reports)
+- Handles: FileNotFoundError, ValueError, empty files
+
+**Files Created:**
+- day10_text_files.py
+- day10_csv_files.py
+- day10_json_files.py
+- day10_error_handling.py
+- day10_practice.py ⭐ (main project)
+
+**Key Realizations:**
+- DictReader/DictWriter WAY better than regular reader/writer
+- Error handling is critical for production code
+- JSON perfect for nested data structures
+- These skills directly apply to my daily CSV/Excel work!
+
+**Real-world applications:**
+- Processing sales reports
+- Analyzing CSV exports
+- Generating summary reports
+- Automating file operations
+
+### Day 11: Error Handling Deep Dive (In Progress)
+**Date Started:** 04/23/2026
+
+**Completed:**
+- Exception hierarchy and common types
+- try/except/else/finally patterns
+- Custom exceptions (BankingError example)
+- 7 best practices for error handling
+
+**Files Created:**
+- day11_exceptions.py
+- day11_custom_exceptions.py
+- day11_best_practices.py
+
+**Key Learnings:**
+- else block only runs if NO exception
+- finally ALWAYS runs (cleanup)
+- Custom exceptions for domain-specific errors
+- Specific exceptions before general ones
+- Never use bare except:
+- Chain exceptions with "from e"
+
+**Still To Do:**
+- Part 5: User Input Validator practice exercise
+
+**Next:** Complete Day 11 practice
+
+**Current progress:** Week 2, Day 4/7 (90% complete)

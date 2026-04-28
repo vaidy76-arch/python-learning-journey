@@ -1,0 +1,41 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "position": "Developer",
+      "salary": 85000,
+      "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "address": {
+        "street": "123 Main St",
+        "city": "San Antonio",
+        "state": "TX"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "position": "Manager",
+      "salary": 95000,
+      "skills": [
+        "Leadership",
+        "Project Management"
+      ],
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Austin",
+        "state": "TX"
+      }
+    }
+  ],
+  "departments": [
+    "Engineering",
+    "HR",
+    "Sales"
+  ]
+}

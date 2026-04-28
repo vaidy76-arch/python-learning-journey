@@ -1,0 +1,44 @@
+{
+  "total_revenue": 17200,
+  "total_products_sold": 235,
+  "average_sale": 2457.14,
+  "number_of_products": 7,
+  "best_seller": {
+    "product": "Laptop",
+    "revenue": 6000
+  },
+  "worst_seller": {
+    "product": "USB Cable",
+    "revenue": 1000
+  },
+  "all_products": [
+    {
+      "product": "Laptop",
+      "revenue": 6000
+    },
+    {
+      "product": "Mouse",
+      "revenue": 1250
+    },
+    {
+      "product": "Keyboard",
+      "revenue": 2250
+    },
+    {
+      "product": "Monitor",
+      "revenue": 3000
+    },
+    {
+      "product": "Headphones",
+      "revenue": 2500
+    },
+    {
+      "product": "USB Cable",
+      "revenue": 1000
+    },
+    {
+      "product": "Webcam",
+      "revenue": 1200
+    }
+  ]
+}
