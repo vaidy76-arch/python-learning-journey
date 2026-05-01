@@ -1,0 +1,18 @@
+{
+  "folder_path": ".",
+  "generated_at": "2026-04-30",
+  "stats": {
+    "total_files": 5,
+    "by_extension": {
+      ".py": 5
+    },
+    "largest_file": {
+      "name": "folder_inspector.py",
+      "size_bytes": 5552
+    },
+    "most_recent_file": {
+      "name": "folder_inspector.py",
+      "modified_timestamp": 1777610260.6012561
+    }
+  }
+}
