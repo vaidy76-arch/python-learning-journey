@@ -1,0 +1,39 @@
+{
+  "total_employees": 5,
+  "employees": [
+    {
+      "role": "Employee",
+      "name": "Alice Chen",
+      "salary": 68250.0,
+      "hire_date": "2022-03-15"
+    },
+    {
+      "role": "Employee",
+      "name": "Bob Patel",
+      "salary": 75600.0,
+      "hire_date": "2021-08-01"
+    },
+    {
+      "role": "Manager",
+      "name": "Carol Singh",
+      "salary": 101745.0,
+      "hire_date": "2020-01-10",
+      "team_size": 5
+    },
+    {
+      "role": "Manager",
+      "name": "David Kim",
+      "salary": 112455.0,
+      "hire_date": "2019-06-22",
+      "team_size": 8
+    },
+    {
+      "role": "Director",
+      "name": "Eva Rodriguez",
+      "salary": 187425.0,
+      "hire_date": "2017-11-05",
+      "team_size": 20,
+      "department_budget": 500000
+    }
+  ]
+}
